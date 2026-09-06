@@ -5,7 +5,7 @@ An interactive, touch-screen Bluetooth macro pad built for **Helldivers 2** usin
 
 <img width="200" height="150" alt="20260906_172433" src="https://github.com/user-attachments/assets/7e18eea0-51ab-4899-b454-bf235c3debcf" /><img width="200" height="150" alt="20260906_172459" src="https://github.com/user-attachments/assets/41206a2d-93aa-4851-8230-a98f8ca1ae43" /><img width="200" height="150" alt="20260906_172517" src="https://github.com/user-attachments/assets/c1f42118-775e-492e-988e-88ebfc301260" />
 
-If a Helldivers 2 Macro pad sounds a bit cheaty and un-democratic, plus the bots (AI) did help me get this all working - so it might not be for everyone, but if it's useful to you, then enjoy!
+Is using a macro pad cheating? Is letting Automaton AI write half the code treason? Maybe. But if it makes calling in stratagems smoother and saves you from getting swarmed by bugs, it's a win in my book. Use it at your own risk and enjoy!
 
 ---
 
